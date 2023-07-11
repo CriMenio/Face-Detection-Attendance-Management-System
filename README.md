@@ -6,4 +6,5 @@ Architecture Of the Project
 
 Output:
 
-![Uploading Attendance Sheet.png…]()
+
+![Attendance Sheet](https://github.com/CriMenio/Face-Detection-Attendance-Management-System/assets/90751396/9effef28-13ff-488d-99df-e52932b3ea56)
