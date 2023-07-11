@@ -8,7 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
 		  const rollNoCell = document.createElement('td');
 		  const nameCell = document.createElement('td');
 		  const attendanceCell = document.createElement('td');
-  
+
+		# Change Cridential like Name, Rollno and Count here....
 		  rollNoCell.textContent = student.Name;
 		  nameCell.textContent = student.Rollno;
 		  attendanceCell.textContent = student.Count;
